@@ -41,6 +41,10 @@ style="height:100%;width: 100%;position: fixed;top: 0;left: 0;z-index: -999"
 | saturation | 饱和度         |
 | light      | 亮度           |
 
+#### ![background1 效果展示](README.assets/background1 效果展示.png)
+
+
+
 
 
 ### 2.AkiBackGround2... 开发中
