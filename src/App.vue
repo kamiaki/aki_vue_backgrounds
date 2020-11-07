@@ -1,6 +1,7 @@
 <template>
   <div id="app" style="height: 100%">
-    <AkiBackGround1 style="height:100%;width: 100%;"></AkiBackGround1>
+    <AkiBackGround1 style="height:100%;width: 100%;"
+    column="4" row="3" rotate="45" scale="2" saturation="100" light="50"></AkiBackGround1>
   </div>
 </template>
 
