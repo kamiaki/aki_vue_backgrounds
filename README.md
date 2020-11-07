@@ -41,7 +41,7 @@ style="height:100%;width: 100%;position: fixed;top: 0;left: 0;z-index: -999"
 | saturation | 饱和度         |
 | light      | 亮度           |
 
-#### ![background1 效果展示](README.assets/background1 效果展示.png)
+#### ![background1 效果展示](https://raw.githubusercontent.com/kamiaki/aki_vue_backgrounds/master/remarks/background1%20%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA.png)
 
 
 
