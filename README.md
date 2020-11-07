@@ -1,4 +1,18 @@
-# aki_vue_backgrounds
+# 这是一个aki 自制的vue 背景组件，欢迎使用
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > A Vue.js project
 
@@ -16,3 +30,4 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
