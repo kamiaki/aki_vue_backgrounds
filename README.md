@@ -1,33 +1,46 @@
-# 这是一个aki 自制的vue 背景组件，欢迎使用
+# VUE背景组件库，欢迎使用😘
 
+## 下载地址
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
+```shell
+npm install aki_vue_backgrounds
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+
+## 使用方法示例
+
+```vue
+ <AkiBackGround1 style="height:100%;width: 100%; position: fixed;top: 0;left: 0;z-index: -999"
+    column="4" row="3" rotate="45" scale="3" saturation="100" light="50"></AkiBackGround1>
+
+import {AkiBackGround1} from 'aki_vue_backgrounds'
+
+components: {
+AkiBackGround1
+}
+```
+
+
+
+## 文档
+
+### 1.AkiBackGround1
+
+```css
+如果想铺满全屏可以使用一下css
+style="height:100%;width: 100%;position: fixed;top: 0;left: 0;z-index: -999"
+```
+
+| 属性名     | 参数说明       |
+| ---------- | -------------- |
+| column     | 几列不同的颜色 |
+| row        | 几行不同的颜色 |
+| rotate     | 旋转角度       |
+| scale      | 缩放比例       |
+| saturation | 饱和度         |
+| light      | 亮度           |
+
+
+
+### 2.AkiBackGround2... 开发中
